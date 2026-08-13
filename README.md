@@ -115,9 +115,8 @@ The analysis helps highlight customer groups and behaviours associated with high
 
 **Mahmudul Hasan**  
 MSc Computational Social Systems — Business Analytics specialization  
-NAWI Graz: University of Graz and Graz University of Technology
+University of Graz and Graz University of Technology
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/mahmudul-hasan-764307249/).
 
 ## Disclaimer
 
