@@ -1,8 +1,10 @@
+
+
+<img width="594" height="512" alt="Dashboard" src="https://github.com/user-
+attachments/assets/bbfe7798-3eb7-4774-8721-9dc293c300d7" />
 # Customer Churn Analysis
 
 An end-to-end data analytics project using **SQL, Python, machine learning, and Power BI** to explore customer churn, identify important churn factors, predict customer risk, and communicate the results through an interactive dashboard.
-
-![Customer Churn Analysis Dashboard](dashboard.png)
 
 ## Project Overview
 
